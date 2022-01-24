@@ -1,0 +1,31 @@
+* {
+    margin: 0%;
+    background-color: #191A19;
+    color: #D8E9A8;
+}
+
+.header {
+    text-align: center;
+    align-content: center;
+    padding-bottom: 1em;
+    padding-top: 1em;
+}
+
+img {
+    padding: 1em;
+}
+
+.links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+a:link {
+    color: #4E9F3D;
+}
+
+a:visited {
+    color: #1E5128;
+}
